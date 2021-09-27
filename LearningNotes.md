@@ -16,4 +16,7 @@ The language's core philosophy is summarized in the document The Zen of Python (
 >
 >Complex is better than complicated.
 >
->Readability counts.  
+>Readability counts. 
+
+**REPL** read-eval-print-loop  
+The **Python Shell**, is a REPL environment used to run snippets of Python code, typically a single statement at a time
